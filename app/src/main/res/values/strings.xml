@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">UKLVIEWGROUP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Value">    $7,00</string>
+    <string name="Safanah">  Safanah Bread</string>
+    <string name="Make">  Make Your Day!!</string>
+    <string name="content_text">
+        Safanah Bread make from original grain
+        original bread make from original and organic
+        ingridients,multiviamin bread
+        consists vit A, vit B, Vit D. </string>
+    <string name="how">
+        Get Safanah Bread in your city
+        avalaible now in nearest supermarket.
+        High quality bread product, nutritious,
+        and cheapest then the other bread ever.
+    </string>
+    <string name="receipe">  Grain Bread</string>
+    <string name="bread">
+        1. Panaskan mentega, kemudian belah pisang dan panggang pisang di atas api kecil hingga warnanya kekuningan dan aromanya lebih wangi.
+        2. Tata pisang di atas piring.
+        3. Lelehkan cokelat batangan.
+        4. Atur scope es krim yang berbeda rasa di atasnya.
+        Kemudian hiasi dengan topping cokelat yang sudah dilelehkan tadi. Wah, jadi deh banana split seperti di resto atau cafe mewah.
+        Selamat menikmati.
+    </string>
+    <string name="bread2">
+        1. Campurkan tepung ketan, gula pasir, susu bubuk, dan beri air sedikit demi sedikit, lalu aduk hingga tercampur rata.
+        2. Tuangkan adonan ke dalam saringan yang sudah diberi wadah.
+        3. Kukus adonan yang telah disaring selama 10 menit dengan api sedang. Setelah matang, angkat dan sisihkan.
+        4. Uleni adonan pakai garpu hingga menyatu.
+        5. Siapkan wadah yang sudah ditaburi tepung maizena yang sebelumnya sudah disangrai ya, Bunda. Lalu, letakkan adonan di wadah, kemudian taburkan lagi tepung di atasnya agar tidak lengket.
+        6. Pipihkan adonan mochi menggunakan rolling pin (kalau Bunda tidak punya, bisa pakai botol sirup).
+        7. Potong adonan menjadi empat bagian. Setiap potongan dimasukkan ke dalam cetakan cup kecil ya, Bunda. Setelah itu, masukkan es krim ke dalam cetakan dan tutup menggunakan adonan lainnya. Bunda perlu menekan cetakan agar bentuknya menjadi bulat.
+        8. Tutup adonan dengan plastic wrap, lalu simpan dalam freezer selama 3 jam, sajikan.
+    </string>
+    <string name="bread3">
+        1.Blender nanas hingga lembut, campurkan dengan kental manis, sisihkan.
+        2.Kocok air dan whipped cream hingga tercampur rata dan mengembang halus.
+        3.Campur dengan nanas, aduk dan tuang di cetakan es krim.
+        4.Masukkan freezer hingga beku.
+        5.Keluarkan setelah beku, siap dinikmati.
+        6.Jika ingin lebih lembut, sebelum dinikmati ulangi proses blender. Hancurkan dan blender hingga halus es nanas.
+Tuang kembali ke dalam wadah dan bekukan lagi. Siap dinikmati.
+    </string>
+    <string name="bread4">
+    1.Kocok telur dan gula sampai berwarna putih, kemudian campurkan susu.
+    2.Masak adonan sampai mendidih lalu masukkan whipped cream dan aduk sampai rata. Diamkan sampai dingin.
+    3.Campurkan jus stroberi dan aduk hingga merata. Bekukan selama 8 jam.
+    4.Jika menghendaki tekstur yang lebih lembut, mixer kembali gelato yang telah membeku sampai mendapatkan tekstur yang diinginkan.
+    </string>
+
+</resources>

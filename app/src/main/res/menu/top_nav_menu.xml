@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/bookmark"
+        android:title="Bookmark"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_bookmark_24"/>
+
+    <item android:id="@+id/photo"
+        android:title="Photo"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_photo_camera_24"/>
+
+    <item android:id="@+id/menu"
+        android:title="Menu"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_menu_24"/>
+
+</menu>
